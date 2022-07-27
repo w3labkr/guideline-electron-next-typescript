@@ -1,11 +1,11 @@
 {
+    "private": true,
     "name": "guideline-electron-next-typescript",
     "version": "0.1.0",
     "author": "W3LabKr",
     "description": "",
     "main": "main/index.js",
     "homepage": "./",
-    "private": true,
     "scripts": {
         "clean": "rimraf dist main renderer/out renderer/.next",
         "dev": "npm run build-electron && electron .",

@@ -1,4 +1,4 @@
-# CONTRIBUTIN GUIDE
+# Contributing Guide
 
 ## Create electron application
 
@@ -8,8 +8,5 @@ npx create-next-app --example with-electron-typescript .
 
 ```shell
 yarn dev
-```
-
-```shell
 yarn dist
 ```
